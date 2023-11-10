@@ -6,8 +6,8 @@ Je suis un(e) [Votre Profession] passionné(e) par [Votre Domaine]. Tout au long
 
 ## Curriculum Vitae / CV
 
-- [CV in English](link_to_your_cv_english.pdf)
-- [CV en Français](link_to_your_cv_french.pdf)
+- [CV in English](CV_OUIYZME_Eng.pdf)
+- [CV en Français](CV_OUIYZME_Eng.pdf)
 
 Feel free to reach out to me at [Your Email Address].
 
