@@ -9,9 +9,9 @@ Je suis un(e) [Votre Profession] passionné(e) par [Votre Domaine]. Tout au long
 - [CV in English](CV_OUIYZME_Eng.pdf)
 - [CV en Français](CV_OUIYZME_Eng.pdf)
 
-Feel free to reach out to me at [Your Email Address].
+Feel free to reach out to me at larbiouiyzme@gmail.com.
 
-N'hésitez pas à me contacter à [Votre Adresse Email].
+N'hésitez pas à me contacter à larbiouiyzme@gmail.com.
 
 ## License / Licence
 
